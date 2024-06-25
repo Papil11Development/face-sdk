@@ -1,5 +1,6 @@
 
-## Papil11 Open Source Face SDK
+## Papil11 Open Source Face SDK  
+> **Note**:  moved from another repository on June 25, 2024  
 
 [Face SDK](sdk/) is an open-source library that analyzes images to identify human faces, bodies and skeletal joints. The library is top rated in NIST FRVT with 99.62% face recognition accuracy and is available for C++, Python, C#, and Java programming languages on Windows and Linux.
 
